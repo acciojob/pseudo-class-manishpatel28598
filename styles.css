@@ -4,13 +4,13 @@
 }
 p::before{
 	content: " before element ";
-	color: rgb(0, 0, 0);
+	color: red;
 	font-size: 20px;
 	text-transform: capitalize;
 }
 p::after{
 	content: " after element ";
-	color: rgb(0, 0, 0);
+	color: red;
 	font-size: 20px;
 	text-transform: capitalize;
 }
