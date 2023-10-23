@@ -1,15 +1,15 @@
 /*  your css code here. If applicable */
 #container::before{
-	content: "before element";
+	content: "Before Element";
 	color: rgb(255, 0, 0);
 	font-size: 20px;
-	text-transform: capitalize;
+	
 }
 #container::after{
-	content: "After element";
+	content: "After Element";
 	color: rgb(255,  0, 0);
 	font-size: 20px;
-	text-transform: capitalize;
+	
 #container{
 	margin: 20px;
 }
