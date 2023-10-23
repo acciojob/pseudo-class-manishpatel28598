@@ -9,7 +9,7 @@ p::before{
 	text-transform: capitalize;
 }
 p::after{
-	content: "after element";
+	content: "After element";
 	color: rgb(255,  0, 0);
 	font-size: 20px;
 	text-transform: capitalize;
